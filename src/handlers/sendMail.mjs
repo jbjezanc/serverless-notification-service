@@ -17,7 +17,7 @@ async function sendMail(event, context) {
   // Send a test email
   const params = {
     Source:
-      "<your_registered_and_verified_AWS_SES_Identities>",
+      "<your_registered_and_verified_AWS_SES_Identities_email>",
     Destination: {
       ToAddresses: [recipient],
     },
