@@ -1,0 +1,9 @@
+{
+  "name": "notification-service",
+  "version": "2.0.0",
+  "description": "Notification Service",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1691.0"
+  }
+}
